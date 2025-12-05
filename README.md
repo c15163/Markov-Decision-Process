@@ -125,20 +125,6 @@ All plots and metrics will be saved automatically in the working directory.
 
 ---
 
-## Dataset Notes
-
-This MDP project does **not** use external datasets.  
-However, if you also maintain supervised/unsupervised learning repositories, the following datasets are commonly referenced:
-
-- Breast Cancer Wisconsin Dataset  
-  https://www.kaggle.com/datasets/anacoder1/wisc-bc-data  
-
-- WiFi Localization Dataset  
-  https://archive.ics.uci.edu/dataset/422/wireless+indoor+localization  
-
-These are **not required** for this MDP project.
-
----
 
 ## Summary of Findings
 
